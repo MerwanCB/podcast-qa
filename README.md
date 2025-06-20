@@ -2,11 +2,8 @@
 
 An intelligent application that transforms long-form podcast transcripts into a queryable knowledge base. Ask questions, get summaries, and generate new content in seconds. This project demonstrates an end-to-end Retrieval-Augmented Generation (RAG) pipeline, from data processing to a user-friendly web interface.
 
-<!-- TODO: Add a GIF of your app in action! It's the best way to show what it does.
-     You can use a free tool like ScreenToGif or Kap. -->
-![App Demo GIF](https://your-link-to-a-demo-gif.com/demo.gif)
 
-**[➡️ View Live Demo Here]**(https://your-streamlit-app-link.streamlit.app/) <!-- TODO: Replace with your actual deployment link -->
+![App Screenshot](https://github.com/MerwanCB/podcast-qa/blob/main/screenshot.png)
 
 ---
 

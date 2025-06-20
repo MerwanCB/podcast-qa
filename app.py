@@ -64,7 +64,7 @@ st.sidebar.markdown(
     """
     **Podcast Q&A** lets you ask questions to your favorite podcast transcripts using Google's Gemini.
     
-    - [GitHub Repo](https://github.com/your-repo)
+    - [GitHub Repo](https://github.com/MerwanCB)
     - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
     """
 )
